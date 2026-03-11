@@ -12,3 +12,4 @@ new player in town
 leave me alone
 if you miss
 it was fun
+play for win
